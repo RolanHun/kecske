@@ -22,6 +22,8 @@ aside jobb {
 }
 article{
     grid-area: a;
+    background-color: lightblue;
+    text-align: center;
 }
 header{
     grid-area: h;
@@ -48,5 +50,4 @@ aside img {
 #csonak {
     max-height: 500px;
     max-width: 600px;
-
 }
