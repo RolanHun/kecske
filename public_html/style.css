@@ -6,6 +6,8 @@ main, header, aside, article, footer{
 }
 
 main {
+    max-width: 800px;
+    margin: auto;
     display: grid;
     grid-template-areas:
         "h h h"
