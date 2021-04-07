@@ -34,7 +34,7 @@ header{
 }
 footer{
     grid-area: f;
-    text-align: center;
+    border: 1px solid gray;
 }
 
 header h1 {
@@ -43,7 +43,7 @@ header h1 {
 }
 
 .kiemel {
-    border: 2pt solid red;
+    border: 2px solid red;
     cursor: grab;
 }
 
@@ -57,4 +57,5 @@ aside img {
 }
 footer p {
     background-color: lightblue;
+    text-align: center;
 }
