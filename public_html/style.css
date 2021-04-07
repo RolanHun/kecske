@@ -34,7 +34,10 @@ header h1 {
     text-align: center;
 }
 
-img {
+.kiemel {
+    border: 2pt solid red;
+    cursor: grab;
+}
 
 aside img {
     max-height: 100px;
