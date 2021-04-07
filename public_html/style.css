@@ -7,10 +7,10 @@ main {
         "b a j"
         "f f f";
 }
-aside bal {
+#bal {
     grid-area: b;
 }
-aside jobb{
+#jobb{
     grid-area: j;
 }
 article{
@@ -27,3 +27,4 @@ header h1 {
     font-size: 20px;
     text-align: center;
 }
+
