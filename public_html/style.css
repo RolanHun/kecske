@@ -1,3 +1,4 @@
+@charset "utf-8";
 main {
     display: grid;
     grid-template-areas:
