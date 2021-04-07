@@ -55,3 +55,6 @@ aside img {
     max-height: 500px;
     max-width: 600px;
 }
+footer p {
+    background-color: lightblue;
+}
