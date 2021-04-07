@@ -34,7 +34,18 @@ header h1 {
     text-align: center;
 }
 
+
 .kiemel {
     border: 2pt solid red;
     cursor: grab;
+}
+
+img {
+    max-height: 100px;
+    max-width: 100px;
+}
+#csonak {
+    max-height: 500px;
+    max-width: 600px;
+
 }
