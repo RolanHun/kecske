@@ -11,12 +11,16 @@ main {
         "h h h"
         "b a j"
         "f f f";
+    max-width: 1000px;
+    margin: auto;
 }
 aside bal {
     grid-area: b;
+    max-width: 250px;
 }
 aside jobb {
     grid-area: j;
+    max-width: 250px;
 }
 article{
     grid-area: a;
